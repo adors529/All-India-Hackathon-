@@ -1,0 +1,24 @@
+    border-radius: 34% 66% 65% 35% / 35% 32% 68% 65%;
+/* Nte :
+    border-radius: 15px 50px 150px 150px; (first value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value apploies to bottom-left corner): */
+
+
+
+
+
+    /* #one .h2{
+    font-size: larger;
+    font-family: 'Manrope', sans-seri;
+    font-size: 50px;
+    position: absolute;
+    float: top;
+    top: 84px;
+    text-shadow: 8px;
+    letter-spacing: 3px;
+}
+
+#one .h3{
+    position: absolute;
+    float: top;
+    top: 170px;
+} */
